@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.city-dropdown {
+  margin-bottom: 20px;
+}
+
+.weather-cards {
+  display: flex;
+  justify-content: center;
+}
+
+.weather-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.current-day {
+  background-color: #f2f2f2;
+}
